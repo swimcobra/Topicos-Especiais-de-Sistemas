@@ -1,4 +1,0 @@
-//Teste do Rest API
-GET http://localhost:5155/weatherforecast
-
-//precisa da extensão Rest Client
